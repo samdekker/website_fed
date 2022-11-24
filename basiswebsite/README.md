@@ -36,19 +36,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://lowlands.nl/
+  https://www.anna-nina.nl/nl
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/homepage.jpg" width="375px" alt="omschrijving van de pagina">
-  <img src="readme-images/homepage2.jpg" width="375px" alt="omschrijving van de pagina">
-  <img src="readme-images/homepage3.jpg" width="375px" alt="omschrijving van de pagina">
+  Homepagina
 
+  <img src="readme-images/homepage2.jpg" alt="foto">
+  <img src="readme-images/homepage1.jpg" alt="foto">
+  
+  
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/detailpage.jpg" width="375px" alt="omschrijving van de pagina">
-  <img src="readme-images/detailpage2.jpg" width="375px" alt="omschrijving van de pagina">
- 
+Detailpagina
+
+ <img src="readme-images/detailpage1.jpg" alt="foto">
+ <img src="readme-images/detailpage2.jpg" alt="foto">
+  
+
 </details>
 
 
@@ -120,11 +123,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+Noah:
+Vraag website
+
+Isa:
+Vraag website
+
+Aleid:
+Vraag website
+
+Sam:
+Bespreken website, vraag button
 
 
   ### Verslag van meeting
